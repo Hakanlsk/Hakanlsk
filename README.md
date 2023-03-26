@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan Işık</h1>
 <h3 align="center">I am studying computer engineering at university in Turkey.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="[https://www.lambdatest.com/resources/images/news24.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanlsk&label=Profile%20views&color=0e75b6&style=flat" alt="hakanlsk" /> </p>
 
