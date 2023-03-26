@@ -1,17 +1,17 @@
 Hello, my name is [Hakan Işık] 👋
 This GitHub repository is created to share everything I've learned about web development languages such as HTML, CSS, JavaScript, and React.
 
-Project List 📂
-• Dark-And-Light-Mode: In this project, I designed a simple web page using HTML and CSS.  
-• Digital-Clock: In this project, I created a simple calculator using JavaScript.  
-• JS-30-Days---DrumKit-Project: In this project, I developed a To-Do List application using React.  
-• Calculator:  
-• Slider:  
-• to-Do-List:  
-
-
-
-
+Project List 📂    
+• Dark-And-Light-Mode: I made a simple start for Javascript in this project.    
+• Digital-Clock: In this project I made a digital clock with Javascript.    
+• JS-30-Days---DrumKit-Project: In this project, I made a fun drum kit with Javascript.    
+• Calculator: In this project I made a simple calculator with Javascript.   
+• Slider: In this project, I prepared a slide of car photos with Javascript.  
+• to-Do-List: In this project, I created a to-do list with Javascript.  
+• Form-Validator: I coded Javascript form validator in this project.  
+• Play-Hangman: In this project, I coded a hangman game with Javascript.  
+• Movie-Ticket-Reservation-System: In this project, I made a movie ticket reservation system with Javascript.  
+• Quiz-App: In this project, I made a quiz application with Javascript.  
 
 
 
