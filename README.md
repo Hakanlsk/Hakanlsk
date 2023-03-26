@@ -20,7 +20,7 @@ Project List 📂
 
 
 
-How to Reach Me 📫
+How to Reach Me 📫  
 If you have any questions or feedback, you can reach me at the following email address:
 
 [hakanlsk20@gmail.com]
