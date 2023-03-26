@@ -1,5 +1,10 @@
-Hello, my name is [Hakan Işık] 👋
-This GitHub repository is created to share everything I've learned about web development languages such as HTML, CSS, JavaScript, and React.
+Hi, I'm [Hakan Işık]! I'm a third-year computer engineering student at Süleyman Demirel University.
+
+I'm passionate about programming and always seeking to improve my skills in various areas of computer science, including web development and web design. In my free time, I enjoy working on personal coding projects, contributing to open-source software, and reading technical blogs.
+
+I'm currently looking for opportunities to gain more experience in the field of computer engineering through internships or freelance work. If you're interested in collaborating, please don't hesitate to contact me.
+
+Thanks for visiting my GitHub profile!
 
 Project List 📂    
 • Dark-And-Light-Mode: I made a simple start for Javascript in this project.    
@@ -15,15 +20,7 @@ Project List 📂
 
 
 
-
-Getting Started 🚀
-To run these projects on a local machine, follow these steps:
-
-Clone this repository: git clone https://github.com/[your username]/[repository name].git
-In the terminal, navigate to the project folder: cd [repository name]
-In the relevant project folder, run the npm install command to install dependencies.
-Run the npm start command to start the development server for the project.
 How to Reach Me 📫
 If you have any questions or feedback, you can reach me at the following email address:
 
-[your email address]
+[hakanlsk20@gmail.com]
