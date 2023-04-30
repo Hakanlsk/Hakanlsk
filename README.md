@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hakan-i%c5%9f%c4%b1k-23129a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakan-i%c5%9f%c4%b1k-23129a259" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hakan-i%C5%9F%C4%B1k-23129a259"
+                                                                                                                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakan-i%c5%9f%c4%b1k-23129a259" height="30" width="40" /></a>
 <a href="https://instagram.com/hakanlsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakanlsk" height="30" width="40" /></a>
 </p>
 
