@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hakan Işık</h1>
-<h3 align="center">I am React Native Developer</h3>
+<h3 align="center">I am Jr React Native Developer</h3>
 
 
-- 🌱 I’m currently learning **Javascript and React**
-
-- 💬 Ask me about **HTML, CSS, C#**
+- 🌱 I’m currently learning **Javascript and React Native**
 
 - 📫 How to reach me **hakanlsk20@gmail.com**
 
