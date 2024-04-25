@@ -10,7 +10,7 @@
 <p align="left">
 
 <a href="https://instagram.com/hakanlsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakanlsk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hakanlsk/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" alt="hakanlsk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hakanlsk/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="hakanlsk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
